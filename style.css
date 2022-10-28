@@ -1,0 +1,49 @@
+#div-padre{
+    text-align: center;
+    text-shadow: orange 0.1em 0.1em 0.2em
+}
+#encabezado-cuatro{
+    color: aquamarine;
+}
+
+#quemira{
+    color: rgb(47, 47, 129, 50);
+}
+
+body{
+    background-image: url(https://fondosmil.com/fondo/95513.jpg);
+    background-size: cover;
+
+}
+
+h1{
+    color: orange;
+    text-align: center;
+    text-shadow: orange 0.1em 0.1em 0.2em; 
+}
+
+p{
+    color: orange;
+    text-shadow: orange 0.1em 0.1em 0.2em;
+    font-size: large;
+    
+}
+
+.red-color{
+    color: red;
+
+}
+
+.blue-color{
+    color: blue;
+}
+
+.brown-color{
+    color: orange;
+    text-align: center;
+    text-shadow: orange 0.1em 0.1em 0.2em;
+}
+
+.center-text{
+    text-align: center;
+}
